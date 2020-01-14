@@ -1,0 +1,14 @@
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\bin\Debug\netcoreapp2.2\JuntoCRUD.deps.json
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\bin\Debug\netcoreapp2.2\JuntoCRUD.runtimeconfig.json
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\bin\Debug\netcoreapp2.2\JuntoCRUD.runtimeconfig.dev.json
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\bin\Debug\netcoreapp2.2\JuntoCRUD.dll
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\obj\Debug\netcoreapp2.2\JuntoCRUD.csprojAssemblyReference.cache
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\obj\Debug\netcoreapp2.2\JuntoCRUD.csproj.CoreCompileInputs.cache
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\obj\Debug\netcoreapp2.2\JuntoCRUD.RazorAssemblyInfo.cache
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\obj\Debug\netcoreapp2.2\JuntoCRUD.RazorAssemblyInfo.cs
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\obj\Debug\netcoreapp2.2\JuntoCRUD.AssemblyInfoInputs.cache
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\obj\Debug\netcoreapp2.2\JuntoCRUD.AssemblyInfo.cs
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\obj\Debug\netcoreapp2.2\JuntoCRUD.RazorTargetAssemblyInfo.cache
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\bin\Debug\netcoreapp2.2\JuntoCRUD.pdb
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\obj\Debug\netcoreapp2.2\JuntoCRUD.dll
+C:\Projetos2MSoftware\ProjetosWeb\ProjetosASP.NET\JuntoCRUD\JuntoCRUD\JuntoCRUD\obj\Debug\netcoreapp2.2\JuntoCRUD.pdb
