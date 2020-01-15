@@ -1,4 +1,5 @@
-﻿using JuntoCRUD.Context;
+﻿using JuntoCRUD.Business.Models;
+using JuntoCRUD.Context;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -11,6 +12,7 @@ namespace JuntoCRUD.Repository
     public class BaseRepository<TEntity, TCode> where TEntity : class
     {
         protected readonly JuntoContext _context;
+        public readonly ICollection<TEntity> entities;
 
         public BaseRepository(JuntoContext context)
         {
@@ -47,5 +49,6 @@ namespace JuntoCRUD.Repository
         {
             return this._context.Set<TEntity>().ToList();
         }
+        
     }
 }
